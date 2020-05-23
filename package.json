@@ -1,0 +1,11 @@
+{
+  "name": "advent-challenge",
+  "version": "1.0.0",
+  "description": "solving advent coding challenge",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "author": "Jacob",
+  "license": "ISC"
+}
